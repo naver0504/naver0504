@@ -194,10 +194,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naver0504&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naver0504&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 <p align="center">
