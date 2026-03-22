@@ -101,6 +101,24 @@
 
 ---
 
+### 📌 오르는 오늘 — 등산 날씨 정보 서비스 `소프티어 부트캠프`
+
+> 코스별 시간대별 요약 날씨 정보 제공 서비스
+
+| | |
+|---|---|
+| **기간** | 2025.07 ~ 2025.08 (5주) |
+| **인원** | 4명 (BE 2, FE 2) |
+| **스택** | Spring Boot, Spring Batch, MySQL, Redis, Bucket4j, Docker, AWS EC2 |
+| **GitHub** | [Team6-6CanDoIt](https://github.com/naver0504/Team6-6CanDoIt) |
+
+**주요 성과**
+- 멀티 모듈 아키텍처 설계 (도메인/인프라/애플리케이션 분리)
+- 3가지 유량 제어 알고리즘 비교 검증 → Leaky Bucket 채택, 배치 **4분 32초 → 1분 28초**
+- Dynamic TPS 메커니즘 설계 및 구현
+
+---
+
 ### 📌 BUDDA+ — BUDDA 개인 고도화 프로젝트
 
 > 졸업 프로젝트의 아쉬움에서 시작한 개인 프로젝트
@@ -133,24 +151,6 @@
 **주요 성과**
 - 배치 처리 최적화 (NoOffset + 캐싱 + 병렬 처리 + JDBC Batch) → **20분 → 34초**
 - 동적 Join 제거 + Covering Index 응용 → 조회 성능 **약 50% 개선**
-
----
-
-### 📌 오르는 오늘 — 등산 날씨 정보 서비스 `소프티어 부트캠프`
-
-> 코스별 시간대별 요약 날씨 정보 제공 서비스
-
-| | |
-|---|---|
-| **기간** | 2024.07 ~ 2024.08 (5주) |
-| **인원** | 4명 (BE 2, FE 2) |
-| **스택** | Spring Boot, Spring Batch, MySQL, Redis, Bucket4j, Docker, AWS EC2 |
-| **GitHub** | [Team6-6CanDoIt](https://github.com/naver0504/Team6-6CanDoIt) |
-
-**주요 성과**
-- 멀티 모듈 아키텍처 설계 (도메인/인프라/애플리케이션 분리)
-- 3가지 유량 제어 알고리즘 비교 검증 → Leaky Bucket 채택, 배치 **4분 32초 → 1분 28초**
-- Dynamic TPS 메커니즘 설계 및 구현
 
 ---
 
