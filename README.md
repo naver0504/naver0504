@@ -128,7 +128,7 @@
 | **기간** | 2025.02 ~ 2025.04 |
 | **인원** | 개인 프로젝트 |
 | **스택** | Spring Boot, Spring Batch, MySQL, MongoDB, Kafka |
-| **GitHub** | [enhance-comprehensive-design](https://github.com/enhance-comprehensive-design) |
+| **GitHub** | [enhance-comprehensive-design](https://github.com/naver0504/enhance-comprehensive-design) |
 
 **주요 성과**
 - CQRS 패턴 + MongoDB 읽기 전용 분리 → 조회 **0.5s → 0.03s**
@@ -154,7 +154,7 @@
 
 ---
 
-### 📌 Catch Culture Cloud — MSA 전환 개인 프로젝트
+### 📌 Cloud Catch Culture — MSA 전환 개인 프로젝트
 
 > Catch Culture의 아쉬운 점을 개선한 마이크로서비스 아키텍처 프로젝트
 
@@ -162,7 +162,7 @@
 |---|---|
 | **기간** | 개인 프로젝트 |
 | **스택** | Spring Boot, Spring Cloud, MySQL, Redis, Kafka, Docker |
-| **GitHub** | [catch-culture-cloud](https://github.com/naver0504) |
+| **GitHub** | [cloud-catch-culture]([https://github.com/naver0504](https://github.com/naver0504?tab=repositories)) |
 
 **주요 성과**
 - Eureka + API Gateway + OpenFeign 기반 MSA 구성
